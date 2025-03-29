@@ -18,10 +18,10 @@ const Project = () => {
             animateOnScroll={false}
             className="primary sm"
           >
-            Short film on self-discovery
+            Lorem ipsum dolor sit amet consectetur adipisicing elit.
           </AnimatedCopy>
           <AnimatedCopy tag="h2" delay={1}>
-            Fragments of Light
+            Lorem ipsum dolor sit amet consectetur adipisicing elit.
           </AnimatedCopy>
         </section>
 
@@ -37,9 +37,7 @@ const Project = () => {
               Overview
             </AnimatedCopy>
             <AnimatedCopy tag="h4" animateOnScroll={true}>
-              A visual meditation on identity, *Fragments of Light* explores the
-              quiet journey of self-discovery through minimalism, mood, and
-              motion.
+              Lorem ipsum dolor sit amet consectetur adipisicing elit. In aut rem debitis laudantium voluptates. Velit earum soluta numquam beatae corrupti quod libero commodi at quas repellendus, voluptate labore eveniet saepe?
             </AnimatedCopy>
           </div>
 
@@ -48,7 +46,7 @@ const Project = () => {
               Year
             </AnimatedCopy>
             <AnimatedCopy tag="h4" animateOnScroll={true}>
-              2024
+              2025
             </AnimatedCopy>
           </div>
 
@@ -66,7 +64,7 @@ const Project = () => {
               Running Time
             </AnimatedCopy>
             <AnimatedCopy tag="h4" animateOnScroll={true}>
-              6:30
+              10:45
             </AnimatedCopy>
           </div>
 
@@ -75,7 +73,7 @@ const Project = () => {
               Directed by
             </AnimatedCopy>
             <AnimatedCopy tag="h4" animateOnScroll={true}>
-              Nico Palmer
+              Alpha
             </AnimatedCopy>
           </div>
         </section>
@@ -120,7 +118,7 @@ const Project = () => {
               Editor
             </AnimatedCopy>
             <AnimatedCopy tag="h4" animateOnScroll={true}>
-              Nico Palmer
+              Alpha
             </AnimatedCopy>
           </div>
 
@@ -129,7 +127,7 @@ const Project = () => {
               Sound Design
             </AnimatedCopy>
             <AnimatedCopy tag="h4" animateOnScroll={true}>
-              Elena Brooks
+              Alpha
             </AnimatedCopy>
           </div>
 
@@ -138,7 +136,7 @@ const Project = () => {
               Art Director
             </AnimatedCopy>
             <AnimatedCopy tag="h4" animateOnScroll={true}>
-              Milo Vance
+              Alpha
             </AnimatedCopy>
           </div>
 
@@ -147,7 +145,7 @@ const Project = () => {
               Producer
             </AnimatedCopy>
             <AnimatedCopy tag="h4" animateOnScroll={true}>
-              Asha Lennox
+              Alpha
             </AnimatedCopy>
           </div>
 
@@ -156,7 +154,7 @@ const Project = () => {
               Director
             </AnimatedCopy>
             <AnimatedCopy tag="h4" animateOnScroll={true}>
-              Nico Palmer
+              Alpha
             </AnimatedCopy>
           </div>
         </section>

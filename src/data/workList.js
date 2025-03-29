@@ -1,32 +1,32 @@
 const workList = [
   {
     id: 1,
-    title: "Fragments of Light",
-    category: "Short Film",
+    title: "NeuroMetrics",
+    category: "AI & Machine Learning",
     image: "/work/work-1.jpg",
   },
   {
     id: 2,
-    title: "Market Pulse",
-    category: "Documentary",
+    title: "MarketVista",
+    category: "Data Analytics & Strategy",
     image: "/work/work-2.jpg",
   },
   {
     id: 3,
-    title: "The Stillness Project",
-    category: "Experimental",
+    title: "CyberSentinel",
+    category: "Cybersecurity & Threat Intelligence",
     image: "/work/work-3.jpg",
   },
   {
     id: 4,
-    title: "Chroma/City",
-    category: "Branded Content",
+    title: "AutoSphere",
+    category: "IoT & Smart Automation",
     image: "/work/work-4.jpg",
   },
   {
     id: 5,
-    title: "Echoes of Silence",
-    category: "Narrative Drama",
+    title: "FrameworkX",
+    category: "Software Engineering & Full-Stack Development",
     image: "/work/work-5.jpg",
   },
 ];

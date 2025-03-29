@@ -10,12 +10,11 @@ const Footer = () => {
         <div className="footer-contact">
           <h3>
             Let’s Collaborate <br />
-            film<span>@</span>nicopalmer.com
+            film<span>@</span>Alpha.com
           </h3>
 
           <p className="secondary">
-            From short films to full productions — I’m always open to creative
-            collaborations. Feel free to reach out anytime.
+            Lorem ipsum, dolor sit amet consectetur adipisicing elit. Minima quasi eligendi sunt dolorum earum, facere inventore totam omnis id ullam veritatis culpa aperiam obcaecati ipsam atque reprehenderit odit debitis doloremque!
           </p>
 
           <Link to="/contact" className="btn">
@@ -52,13 +51,13 @@ const Footer = () => {
       </div>
       <div className="footer-row">
         <div className="footer-header">
-          <h1>Nico</h1>
-          <h1>Palmer</h1>
+          <h1>Alpha</h1>
+          <h1>ALpha</h1>
         </div>
 
         <div className="footer-copyright-line">
-          <p className="primary sm">&copy; Nico Palmer 2025</p>
-          <p className="primary sm">Website Template by Codegrid</p>
+          <p className="primary sm">&copy; Alpha 2025</p>
+          
         </div>
       </div>
     </div>

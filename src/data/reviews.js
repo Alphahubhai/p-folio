@@ -1,20 +1,20 @@
 const reviews = [
   {
     id: 1,
-    copy: "Working with you was a seamless experience. The visuals were stunning, and the storytelling felt incredibly personal.",
-    author: "Ava Reynolds",
+    copy: "Alpha’s genius in AI and full-stack development reshaped our vision. Every detail was executed with perfection and groundbreaking innovation.",
+    author: "Molly Seraph",
     image: "/reviews/review-1.jpg",
   },
   {
     id: 2,
-    copy: "Your direction brought our brand to life. Every frame had purpose and emotion — couldn't be happier with the result.",
-    author: "Liam Carter",
+    copy: "A problem-solving powerhouse! Alpha revolutionized our platform with cutting-edge strategies, exceeding every expectation effortlessly.",
+    author: "Bailey White",
     image: "/reviews/review-2.jpg",
   },
   {
     id: 3,
-    copy: "Truly professional, creative, and detail-oriented. You made our vision clearer and better than we imagined.",
-    author: "Sophie Nguyen",
+    copy: "A trailblazer in tech. Alpha turns the impossible into reality—scalable, efficient, and ahead of the curve in every way.",
+    author: "Adam Wong",
     image: "/reviews/review-3.jpg",
   },
 ];

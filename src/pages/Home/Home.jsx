@@ -143,37 +143,37 @@ const Home = () => {
 
           <div className="hero-header">
             <AnimatedCopy tag="h1" animateOnScroll={false} delay={0.7}>
-              Nico
+              Alpha
             </AnimatedCopy>
             <AnimatedCopy tag="h1" animateOnScroll={false} delay={0.8}>
-              Palmer
+              Alpha
             </AnimatedCopy>
           </div>
         </section>
 
         <section ref={stickyTitlesRef} className="sticky-titles">
           <div className="sticky-titles-nav">
-            <p className="primary sm">About Me</p>
-            <p className="primary sm">Let’s Connect</p>
+            <p className="primary sm">Who is Alpha?</p>
+            <p className="primary sm">Let’s Innovate Together</p>
           </div>
           <div className="sticky-titles-footer">
-            <p className="primary sm">Storytelling Through Film</p>
-            <p className="primary sm">Open to Collaborations</p>
+            <p className="primary sm">"Engineering the Future</p>
+            <p className="primary sm">Crafting Excellence</p>
           </div>
           <h2 ref={(el) => (titlesRef.current[0] = el)}>
-            I craft films that tell human stories with cinematic depth.
+          Alpha transforms visions into groundbreaking solutions.
           </h2>
           <h2 ref={(el) => (titlesRef.current[1] = el)}>
-            Each project is driven by emotion, clarity, and vision.
+          Innovation, strategy, and technology—seamlessly executed.
           </h2>
           <h2 ref={(el) => (titlesRef.current[2] = el)}>
-            This portfolio is a glimpse into the frames that move me.
+          A portfolio built on precision, passion, and performance.
           </h2>
         </section>
 
         <section ref={stickyWorkHeaderRef} className="sticky-work-header">
           <AnimatedCopy tag="h1" animateOnScroll="true">
-            Palmer selects
+          Alpha’s Signature Creations
           </AnimatedCopy>
         </section>
 
@@ -204,22 +204,22 @@ const Home = () => {
         <section className="hobbies">
           <div className="hobby">
             <AnimatedCopy tag="h4" animateOnScroll={true}>
-              Camera
+            Disruptive Thinking
             </AnimatedCopy>
           </div>
           <div className="hobby">
             <AnimatedCopy tag="h4" animateOnScroll={true}>
-              Editing
+            System Design
             </AnimatedCopy>
           </div>
           <div className="hobby">
             <AnimatedCopy tag="h4" animateOnScroll={true}>
-              Story
+            Product Innovation
             </AnimatedCopy>
           </div>
           <div className="hobby">
             <AnimatedCopy tag="h4" animateOnScroll={true}>
-              Sound
+            Business Strategy
             </AnimatedCopy>
           </div>
         </section>

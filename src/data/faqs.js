@@ -1,52 +1,52 @@
 export const faqItems = [
   {
-    question: "What types of films do you specialize in?",
+    question: "What technologies do you specialize in?",
     answer:
-      "I specialize in narrative short films, documentaries, and branded content. My focus is on strong storytelling and cinematic visuals.",
+      "I specialize in Full Stack Development, UI/UX Design, AI/ML, and Cybersecurity. My tech stack includes React, Next.js, Node.js, Python, and more.",
   },
   {
-    question: "Are you available for freelance or commissioned work?",
+    question: "Are you available for freelance or commissioned projects?",
     answer:
-      "Yes, I’m open to freelance and commissioned projects. Feel free to reach out through the contact form to discuss your vision.",
+      "Yes, I'm open to freelance work and collaborations. Feel free to reach out through the contact form to discuss your project.",
   },
   {
-    question: "Do you handle both filming and post-production?",
+    question: "Do you handle both frontend and backend development?",
     answer:
-      "Absolutely. I provide end-to-end services, including cinematography, editing, color grading, and sound design.",
+      "Absolutely. I build scalable web applications with optimized frontends and efficient backend architectures.",
   },
   {
-    question: "What equipment do you use?",
+    question: "What tools and frameworks do you use?",
     answer:
-      "I shoot with industry-standard gear including 4K cameras, professional audio equipment, and high-end editing software.",
+      "I work with industry-leading technologies like React, Next.js, Tailwind CSS, Firebase, AWS, and various AI/ML frameworks.",
   },
   {
-    question: "Can you travel for shoots?",
+    question: "Do you work on AI/ML projects?",
     answer:
-      "Yes, I’m available for both local and international projects. Travel logistics can be discussed during the project planning phase.",
+      "Yes, I have experience in building AI-powered applications, working with computer vision, NLP, and predictive analytics.",
   },
   {
-    question: "Do you collaborate with other creatives?",
+    question: "Can you help with UI/UX design?",
     answer:
-      "Definitely. I often work with writers, actors, musicians, and other filmmakers to bring projects to life collaboratively.",
+      "Definitely! I create intuitive and visually appealing user interfaces with a strong focus on user experience and accessibility.",
   },
   {
     question: "How long does it take to complete a project?",
     answer:
-      "Timelines vary by scope, but short films typically take 3–6 weeks. We’ll set a schedule that aligns with your goals and deadlines.",
+      "Project timelines depend on the scope. A simple web app can take a few weeks, while complex AI-driven platforms may take longer.",
   },
   {
-    question: "Can you help develop a concept or script?",
+    question: "Do you provide consulting or mentorship?",
     answer:
-      "Yes, I offer creative development services including concept ideation, scripting, and storyboarding to shape your project from scratch.",
+      "Yes, I offer consulting for tech startups and mentorship for aspiring developers looking to improve their skills.",
   },
   {
     question: "Where can I view your previous work?",
     answer:
-      "You can explore my film projects on the portfolio page. Each listing includes a short description, trailer, or full version when available.",
+      "You can explore my projects on the portfolio page, showcasing web apps, AI models, and other innovative solutions.",
   },
   {
     question: "How can I contact you for a project?",
     answer:
-      "You can use the contact form or email listed on the site. I aim to respond to all inquiries within 48 hours.",
+      "You can use the contact form or email provided on the site. I aim to respond to all inquiries within 48 hours.",
   },
 ];

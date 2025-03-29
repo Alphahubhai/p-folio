@@ -14,34 +14,28 @@ const About = () => {
     <ReactLenis root>
       <div className="page about">
         <section className="about-header">
-          <h1>Est</h1>
-          <h1>1997</h1>
+          <h1>Born</h1>
+          <h1>Limitless</h1>
         </section>
 
         <section className="about-hero">
           <div className="about-hero-img">
-            <img src="/about/about-hero.jpg" alt="" />
+            <img src="/about/about-hero.jpg" alt="Alpha's Vision" />
           </div>
         </section>
 
         <section className="about-me-copy">
           <div className="about-me-copy-wrapper">
             <AnimatedCopy animateOnScroll={true} tag="h3">
-              I'm Nico Palmer — a filmmaker drawn to human stories, quiet
-              moments, and the visual language of emotion. My work spans short
-              films, experimental pieces, and cinematic visuals.
+              I'm Alpha — a polymath who thrives at the intersection of technology, business, and creativity. I shape ideas, engineer solutions, and drive innovation that redefines industries.
             </AnimatedCopy>
 
             <AnimatedCopy animateOnScroll={true} tag="h3">
-              For me, filmmaking isn’t just about images — it’s about what those
-              images make us feel. I believe in subtlety, texture, and honesty
-              in storytelling.
+              My philosophy is simple: Every problem has a solution, and every challenge is an opportunity. With a relentless pursuit of excellence, I craft experiences that inspire, disrupt, and elevate.
             </AnimatedCopy>
 
             <AnimatedCopy animateOnScroll={true} tag="h3">
-              Every project is a new collaboration, a new challenge, and a new
-              chance to create something meaningful. If it moves someone, even
-              for a second — it's done its job.
+              Whether leading a product, building scalable tech, or designing the next big thing — my work is driven by vision, precision, and an obsession with perfection.
             </AnimatedCopy>
           </div>
         </section>
@@ -51,40 +45,32 @@ const About = () => {
             <div className="services-banner">
               <img src="/about/services-banner.jpg" alt="" />
             </div>
-            <p className="primary">Crafted with Intention</p>
+            <p className="primary">Innovation with Intention</p>
           </div>
           <div className="services-col">
             <h4>
-              Every project is a chance to explore new visual language, push
-              creative boundaries, and tell stories that feel real. I approach
-              each film with care, precision, and purpose.
+              Every project is an evolution — a bold step towards something extraordinary. I blend strategy, creativity, and execution to build products that leave a mark.
             </h4>
 
             <div className="services-list">
               <div className="service-list-row">
                 <div className="service-list-col">
-                  <h5>Filmmaking</h5>
+                  <h5>Product Engineering</h5>
                 </div>
                 <div className="service-list-col">
                   <p>
-                    From short films to personal narratives, my work is driven
-                    by emotion and atmosphere. I handle direction,
-                    cinematography, and editing — crafting each piece with a
-                    filmmaker’s eye for mood, movement, and meaning.
+                    From ideation to deployment, I architect seamless solutions that push boundaries. Whether it's software, AI, or a disruptive startup — my craft is building the future.
                   </p>
                 </div>
               </div>
 
               <div className="service-list-row">
                 <div className="service-list-col">
-                  <h5>Visual Storytelling</h5>
+                  <h5>Strategic Leadership</h5>
                 </div>
                 <div className="service-list-col">
                   <p>
-                    I create visuals that speak — whether it’s a quiet moment or
-                    a bold idea. My work blends aesthetic choices with story
-                    clarity, making sure the emotional core always comes
-                    through.
+                    I translate ideas into impact. From managing cross-functional teams to driving market expansion, I navigate the intersection of business, technology, and growth.
                   </p>
                 </div>
               </div>
@@ -95,10 +81,7 @@ const About = () => {
                 </div>
                 <div className="service-list-col">
                   <p>
-                    From ideation to final cut, I guide the visual and narrative
-                    tone of every project. I bring a cohesive, cinematic vision
-                    that aligns story, style, and intention — grounded in
-                    authenticity.
+                    Design isn’t just aesthetics; it’s experience. I bring a meticulous approach to user interaction, storytelling, and branding — ensuring every product resonates with its audience.
                   </p>
                 </div>
               </div>
@@ -115,10 +98,10 @@ const About = () => {
         <section className="fav-tools">
           <div className="fav-tools-header">
             <AnimatedCopy tag="p" animateOnScroll={true} className="primary sm">
-              Daily Stack
+              The Essential Stack
             </AnimatedCopy>
             <AnimatedCopy tag="h2" animateOnScroll={true} delay={0.25}>
-              Favourite Tools
+              Alpha’s Toolkit
             </AnimatedCopy>
             <AnimatedCopy
               tag="p"
@@ -126,8 +109,7 @@ const About = () => {
               className="secondary"
               delay={0.5}
             >
-              My favorite stack includes Framer, Figma, and other cutting-edge
-              technologies to ensure seamless and dynamic designs.
+              I work with the most powerful technologies, frameworks, and methodologies to craft precision-driven solutions that perform at scale.
             </AnimatedCopy>
           </div>
 
@@ -137,22 +119,22 @@ const About = () => {
                 <div className="fav-tool-img">
                   <img src="/about/tool-1.jpg" alt="" />
                 </div>
-                <h4>DaVinci Resolve</h4>
-                <p className="primary sm">Color Grading</p>
+                <h4>Next.js</h4>
+                <p className="primary sm">Scalable Web Applications</p>
               </div>
               <div className="fav-tool">
                 <div className="fav-tool-img">
                   <img src="/about/tool-2.jpg" alt="" />
                 </div>
-                <h4>Adobe Premiere Pro</h4>
-                <p className="primary sm">Video Editing</p>
+                <h4>Figma</h4>
+                <p className="primary sm">User Experience & Design</p>
               </div>
               <div className="fav-tool">
                 <div className="fav-tool-img">
                   <img src="/about/tool-3.jpg" alt="" />
                 </div>
-                <h4>Blackmagic Pocket</h4>
-                <p className="primary sm">Cinematic Shooting</p>
+                <h4>Python</h4>
+                <p className="primary sm">AI & Data Intelligence</p>
               </div>
             </div>
             <div className="fav-tools-list-row">
@@ -160,22 +142,22 @@ const About = () => {
                 <div className="fav-tool-img">
                   <img src="/about/tool-4.jpg" alt="" />
                 </div>
-                <h4>ShotDeck</h4>
-                <p className="primary sm">Visual References</p>
+                <h4>React Native</h4>
+                <p className="primary sm">Mobile-First Experiences</p>
               </div>
               <div className="fav-tool">
                 <div className="fav-tool-img">
                   <img src="/about/tool-5.jpg" alt="" />
                 </div>
-                <h4>Frame.io</h4>
-                <p className="primary sm">Remote Collaboration</p>
+                <h4>Docker</h4>
+                <p className="primary sm">Seamless Deployments</p>
               </div>
               <div className="fav-tool">
                 <div className="fav-tool-img">
                   <img src="/about/tool-6.jpg" alt="" />
                 </div>
-                <h4>Celtx</h4>
-                <p className="primary sm">Scriptwriting Tool</p>
+                <h4>TensorFlow</h4>
+                <p className="primary sm">Machine Learning & AI</p>
               </div>
             </div>
           </div>
